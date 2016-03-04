@@ -1,6 +1,6 @@
-var chart = new cryptowatch.Embed('bitfinex', 'btcusd', {
+var chart = new cryptowatch.Embed('quoine', 'btcidr', {
 	timePeriod: '1d',
-  width: 650,
+  width: 100%,
   customColorScheme: {
     bg:           "000000",
     text:         "b2b2b2",
